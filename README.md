@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![yangjianxin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjianxin1&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![yangjianxin1's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yangjianxin1&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
-NLP开源爱好者，微信公众号【YeungNLP】
+Firefly开源大模型，微信公众号【YeungNLP】
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangjianxin1&repo=Shopee-Price-Match-Guarantee)](https://github.com/anuraghazra/github-readme-stats)
 **yangjianxin1/yangjianxin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
