@@ -26,6 +26,7 @@ In my free time, I like to write technical blogs on [[Wechat Official Accounts: 
 
 
 📁 Here are some my technical blogs:
+- 📝 [使用Firefly在单卡V100上对Qwen1.5进行SFT和DPO，大幅超越Qwen1.5和Gemma](https://mp.weixin.qq.com/s/fTaGzuIZq3Uig0524GiGPA)
 - 📝 [图解大模型推理优化之KV Cache](https://mp.weixin.qq.com/s/7Fm8LbUN9jQ2HqxPbUU7UQ)
 - 📝 [Mixtral-8x7B MoE大模型微调实践，超越Llama2-65B](https://mp.weixin.qq.com/s/f24e-Tp-1WyXTbVOzePvhg)
 - 📝 [LongQLoRA：单卡高效扩展LLaMA2-13B的上下文长度](https://mp.weixin.qq.com/s/lptWXi9sZXd2MTTXZsDiPw)
