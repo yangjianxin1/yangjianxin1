@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Yang Jianxin
-[![yangjianxin1's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yangjianxin1&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+![yangjianxin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjianxin1&show_icons=true)
 
-I'm a NLPer interested in Large Language Model and graduated from [SYSU](https://www.sysu.edu.cn/) with a master's degree.
+I am currently working in the Qwen team, responsible for Qwen's post-training and distillation.
 
 In my free time, I like to write technical blogs on [[Wechat Official Accounts: YeungNLP]]() and [[Zhihu: 红雨瓢泼]](https://www.zhihu.com/people/jian-xin-15-96)
 
 🔭 Experiences:
-- **Shopee**, responsible for building NLP algorithm ability about Customer Service. (from 2022-04 to now)
+- **Alibaba Qwen Team**, responsible for post-training(from 2024-07 to now)
+- **Shopee**, responsible for building NLP algorithm ability about Customer Service. (from 2022-04 to 2024-05)
 - **Tencent**, responsible for building NLP algorithm ability about Product Understanding. (from 2021-06 to 2022-04)
-- **Alibaba**, Internship at Alibaba  (from 2020-06 to 2020-09).
 
 ⚙ Here are some my public projects:
 
@@ -23,20 +23,3 @@ In my free time, I like to write technical blogs on [[Wechat Official Accounts: 
 | [ClipCap-Chinese](https://github.com/yangjianxin1/ClipCap-Chinese)                | Chinese image caption model based on clip and mengzi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![](https://img.shields.io/github/stars/yangjianxin1/Clipcap-Chinese?style=social)        |
 | [OFA-Chinese](https://github.com/yangjianxin1/OFA-Chinese)                        | Chinese multi-modal unified pre-training model                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | ![](https://img.shields.io/github/stars/yangjianxin1/OFA-Chinese?style=social)            |
 | [LLMPruner](https://github.com/yangjianxin1/LLMPruner)                            | Prune vocabulary of LLMs to save memory in training.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![](https://img.shields.io/github/stars/yangjianxin1/LLMPruner?style=social)              |
-
-
-📁 Here are some my technical blogs:
-- 📝 [使用Firefly在单卡V100上对Qwen1.5进行SFT和DPO，大幅超越Qwen1.5和Gemma](https://mp.weixin.qq.com/s/fTaGzuIZq3Uig0524GiGPA)
-- 📝 [图解大模型推理优化之KV Cache](https://mp.weixin.qq.com/s/7Fm8LbUN9jQ2HqxPbUU7UQ)
-- 📝 [Mixtral-8x7B MoE大模型微调实践，超越Llama2-65B](https://mp.weixin.qq.com/s/f24e-Tp-1WyXTbVOzePvhg)
-- 📝 [LongQLoRA：单卡高效扩展LLaMA2-13B的上下文长度](https://mp.weixin.qq.com/s/lptWXi9sZXd2MTTXZsDiPw)
-- 📝 [详解基于调整RoPE旋转角度的大模型长度外推方法](https://mp.weixin.qq.com/s/RtI95hu-ZLxGkdGuNIkERQ)
-- 📝 [图解RoPE旋转位置编码及其特性](https://mp.weixin.qq.com/s/-1xVXjoM0imXMC7DKqo-Gw)
-- 📝 [QLoRA轻量级增量预训练方案，及汉化Llama2的实践](https://mp.weixin.qq.com/s/26-Qxma9M2wGoTQgOlKRmQ)
-- 📝 [源码解析ChatGLM2多轮对话训练方法的不足，以及改进方法](https://mp.weixin.qq.com/s/nhogoWnzl3nrs_77r38_UA)
-- 📝 [微调百川Baichuan-13B保姆式教程，手把手教你训练百亿大模型](https://mp.weixin.qq.com/s/ZBY6kbogHjbCQvZBzNEqag)
-- 📝 [QLoRA文章解读 & 单卡高效微调bloom-7b1](https://mp.weixin.qq.com/s/DED7yeiE0DibsVzTmMeDOw)
-- 📝 [Firefly(流萤): 中文对话式大语言模型](https://mp.weixin.qq.com/s/TX7wj8IzD_EaMTvk0bjRtA)
-- 📝 [LLMPruner：大语言模型裁剪工具](https://mp.weixin.qq.com/s/leVtrwZc1zLput51Nr99lw)
-
-
