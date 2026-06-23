@@ -1,12 +1,14 @@
 ### Hi there 👋, I'm Yang Jianxin
 ![yangjianxin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjianxin1&show_icons=true)
 
+I graduated from [SYSU](https://www.sysu.edu.cn/) with the master's degree.
+
 I am currently working in the Qwen team, responsible for Qwen's post-training and distillation.
 
 In my free time, I like to write technical blogs on [[Wechat Official Accounts: YeungNLP]]() and [[Zhihu: 红雨瓢泼]](https://www.zhihu.com/people/jian-xin-15-96)
 
 🔭 Experiences:
-- **Alibaba Qwen Team**, responsible for post-training(from 2024-07 to now)
+- **Alibaba Qwen Team**, responsible for Qwen's post-training and distillation. (from 2024-07 to now)
 - **Shopee**, responsible for building NLP algorithm ability about Customer Service. (from 2022-04 to 2024-05)
 - **Tencent**, responsible for building NLP algorithm ability about Product Understanding. (from 2021-06 to 2022-04)
 
